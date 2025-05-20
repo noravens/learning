@@ -1,0 +1,24 @@
+body, html{
+    margin: 20px;
+    padding: 10px;
+    background: pink;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+
+.pro{
+    color:aquamarine;
+    height: 10vh;
+    
+}
+
+.sss{
+    color:aqua;
+}
+
+section{
+    margin: 60px;
+}
+
+body{background: url('WechatIMG234.jpeg') center/cover no-repeat;}
